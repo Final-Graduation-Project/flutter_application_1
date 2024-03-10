@@ -20,6 +20,6 @@ public class AppDBContext : DbContext
     public DbSet<Teacher> Teachers { get; set; }
     public DbSet<Event> Events { get; set; }
     // Corrected spelling of Proposal here
-   // public DbSet<Proposal> Proposals { get; set; }
+    public DbSet<Probosal> Proposals { get; set; }
     public DbSet<OfficeHour> OfficeHours { get; set; }
 }
