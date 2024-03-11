@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("flutter_application_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2661e7eec5f92e54fecea2535318e7fe5326880")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d77b2669e0cbbd3c536b9be18f2d1a4acca3058")]
 [assembly: System.Reflection.AssemblyProductAttribute("flutter_application_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("flutter_application_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
